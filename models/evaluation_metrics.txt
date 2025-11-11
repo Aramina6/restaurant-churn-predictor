@@ -1,0 +1,11 @@
+=== Test Set Performance ===
+              precision    recall  f1-score   support
+
+      Active       0.86      0.96      0.91       248
+  Bad Status       0.93      0.80      0.86       189
+
+    accuracy                           0.89       437
+   macro avg       0.90      0.88      0.88       437
+weighted avg       0.89      0.89      0.89       437
+
+Test ROC-AUC: 0.936
